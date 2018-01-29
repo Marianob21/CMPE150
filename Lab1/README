@@ -1,0 +1,12 @@
+CMPE 150 PreLab/Lab 1
+
+name: Kevin Loi
+email: kloi@ucsc.edu
+studentID: kloi
+ID: 1464217
+
+KevinLoi-lab1.pdf: Contains all the solutions to the Prelab/Lab 1 questions
+
+KevinLoi-script.sh: Shell script that prints out even number lines of all files in current directory
+
+KevinLoi-topo.py: Python script that creates mininet topology
