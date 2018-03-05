@@ -1,0 +1,13 @@
+CMPE 150 Lab3
+
+name: Kevin Loi
+email: kloi@ucsc.edu
+studentID: kloi
+ID: 1464217
+
+KevinLoi-lab3.pdf: Contains all the solutions to the Lab3
+KevinLoi-lab3controller.py: contains the firewall Code
+
+Code logic can be found in lab3controller.
+I wrote pseudo code to make things clearer while writing
+Also, I listed some references I used to help me do this lab
